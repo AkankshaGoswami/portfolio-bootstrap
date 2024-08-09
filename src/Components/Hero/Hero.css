@@ -1,0 +1,31 @@
+.profile-img{
+    width: 300px;
+    height: 270px;
+}
+.hero h1 span{
+    background: linear-gradient(270deg,#df8908 10%,#b415ff 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.hero-contact-btn{
+    padding: 15px 30px;
+    border-radius: 50px;
+    background: linear-gradient(264deg, #df8908 -5.09%,#b415ff 106.28%);
+    cursor: pointer;
+    color: white;
+}
+.hero-resume-btn{
+    padding: 15px 40px;
+    border-radius: 50px;
+    border: 2px solid #fff;
+    cursor: pointer;
+    background-color: transparent;
+    color: white;
+}
+.hero-contact-btn:hover{
+    border: 2px solid white;
+}
+.hero-resume-btn:hover{
+    border-color: #b415ff;
+}

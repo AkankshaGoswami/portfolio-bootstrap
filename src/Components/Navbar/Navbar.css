@@ -1,0 +1,15 @@
+.nav-link{
+    margin: 0px 15px;
+}
+.navbar-btn{
+    border-radius: 50px;
+    background: linear-gradient(267deg,#da7c25 0.36%,#b923e1 102.06%);
+    cursor: pointer;
+    transition: 0.5s;
+    color: white;
+    padding: 6px 20px;
+}
+.navbar-btn:hover{
+    transform: scale(1.05);
+    color: white;
+}

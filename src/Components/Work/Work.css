@@ -1,0 +1,13 @@
+.mywork-container a img{
+    box-sizing: border-box;
+    width: 400px;
+    height: 280px;
+    transition: 0.3s;
+    cursor: pointer;
+}
+.mywork-container a img:hover{
+    transform: scale(1.10);
+    border: 4px solid #ff00ff;
+    border-radius: 10px;
+    transition: 0.3s;
+}
